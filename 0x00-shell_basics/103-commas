@@ -1,2 +1,2 @@
 #!/bin/bash
-ls _amvp
+ls -amvp
